@@ -1,6 +1,6 @@
 # AirBnB Clone - Web dynamic
 
-#### Functionalities of this command interpreter:
+#### Functionalities of the command interpreter:
 * Create a new object (ex: a new User or a new Place)
 * Retrieve an object from a file, a database etc...
 * Do operations on objects (count, compute stats, etc...)
@@ -153,4 +153,4 @@ No known bugs at this time.
 
 ## Authors
 Aalaa Fahim - [Github](https://github.com/Aalaa-Fahim) / [Linkedin](https://www.linkedin.com/in/aalaa-fahim)  
-Reham Saeed - [Github](https://github.com/reham128)
+Reham Saeed - [Github](https://github.com/reham128) / [Linkedin](https://www.linkedin.com/in/reham-bahaa-6911b41aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
