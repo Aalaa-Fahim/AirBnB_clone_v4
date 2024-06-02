@@ -153,4 +153,4 @@ No known bugs at this time.
 
 ## Authors
 Aalaa Fahim - [Github](https://github.com/Aalaa-Fahim) / [Linkedin](https://www.linkedin.com/in/aalaa-fahim)  
-Reham Saeed - [Github](https://github.com/reham128) / [Linkedin](http://www.linkedin.com/in/reham-bahaa-6911b41aa)
+Reham Saeed - [Github](https://github.com/reham128) / [Linkedin](http://www.linkedin.com/in/reham-bahaa)
